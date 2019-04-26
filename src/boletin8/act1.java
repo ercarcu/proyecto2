@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Emilio Manuel Bernal
+ * @author jeperbar
  */
 public class act1 {
 
