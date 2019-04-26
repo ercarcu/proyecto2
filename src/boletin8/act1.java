@@ -13,13 +13,12 @@ import java.util.Scanner;
  */
 public class act1 {
 
-    /**
-     * @param args the command line arguments
-     */
+    
+     
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 
-        //1
+        //inserta una cadena de texto
         System.out.println("Inserta cadena 1");
         String uno = s.nextLine();
         System.out.println("Inserta cadena 2");
