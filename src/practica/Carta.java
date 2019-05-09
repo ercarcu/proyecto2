@@ -22,7 +22,7 @@ public class Carta {
         
                 
     }
-
+    //métodos getters y setters
     public String getPalo() {
         return palo;
     }
@@ -40,7 +40,7 @@ public class Carta {
     }
 
     @Override
-    public String toString() {
+    public String toString() { //muestra el palo y el valor de la carta
         return "Carta{" + "palo=" + palo + ", valor=" + valor + '}';
     }
     
