@@ -11,8 +11,8 @@ package practica;
  */
 public class Carta {
     
-    private String palo;
-    private int valor;
+    private String palo;  //guardo el palo de la baraja de la carta
+    private int valor;   //guardo el numero de la carta
     
     public Carta(String palo, int valor){
         
